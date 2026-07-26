@@ -102,13 +102,7 @@ No installation or additional libraries are required.
 - 📈 More advanced password security checks
 - 💾 Save password preferences using Local Storage
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
 
 ## 👩‍💻 Author
 
